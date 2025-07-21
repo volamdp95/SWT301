@@ -1,0 +1,4 @@
+fullname,email,password,confirmPassword,expected
+Nguyen Van A,a@gmail.com,123456,123456,success
+,,123456,123456,error
+Nguyen Van B,b@gmail.com,123,123,error
